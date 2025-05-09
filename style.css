@@ -1,0 +1,70 @@
+.WindowError {
+    outline: ridge;
+    outline-width: 4px;
+    outline-color: #e7e7e7;
+    background-color: #d3d3d3;
+    margin-top: 200px;
+    width: 300px;
+    height: 163px;
+}
+.WindowBar {
+    display: flex;
+    column-gap: 200px;
+    background-color: rgb(17, 17, 175);
+    width: 300px;
+    height: 30px;
+}
+
+.Button .ILYT {
+    border: 1px dotted transparent;
+    outline: outset;
+    outline-width: 1px;
+    outline-color: #e7e7e7;
+    background-color: #d3d3d3;
+    margin-left: 15px;
+    font-size: 14px;
+}
+
+.Button .ILYT:hover {
+    border: 1px dotted black;
+    outline: outset;
+    outline-width: 1px;
+    outline-color: #e7e7e7;
+    background-color: #d3d3d3;
+    margin-left: 15px;
+    font-size: 14px;
+}
+
+.Contents {
+    display: flex;
+}
+
+.BarTitle {
+    text-shadow: 0.5px 0px white, 1.5px 0px white; 
+    color: transparent; 
+    letter-spacing: 1px;
+    margin-top: 4.5px;
+    margin-left: 4.1px;
+    
+}
+
+.CloseWindow {
+    color: white;
+    margin-top: 5.6px;
+    margin-left: 32px;
+}
+
+.Heart {
+    margin-top: 18px;
+    margin-left: 20px;
+}
+
+.Message {
+    margin-top: 38px;
+    margin-left: 18px;
+    margin-right: 20px;
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-stretch: condensed;
+
+}
