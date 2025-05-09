@@ -39,7 +39,7 @@
 }
 
 .Button .ILYT:focus {
-    border: none;
+    border: 1px dotted black;
     outline: inset;
     outline-width: 1px;
     outline-color: #e7e7e7;
