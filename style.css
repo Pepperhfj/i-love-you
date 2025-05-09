@@ -21,6 +21,7 @@
     outline-width: 1px;
     outline-color: #e7e7e7;
     background-color: #d3d3d3;
+    margin-top: 10px;
     margin-left: 15px;
     font-size: 14px;
 }
@@ -50,15 +51,13 @@
 
 .CloseWindow {
     color: white;
-    border: solid;
-    border-width: 1px;
     margin-top: 5.6px;
     margin-left: 32px;
 }
 
 .Heart {
-    margin-top: 18px;
-    margin-left: 20px;
+    margin-top: 28px;
+    margin-left: 40px;
 }
 
 .Message {
