@@ -18,7 +18,7 @@
 .Button .ILYT {
     border: 1px dotted transparent;
     outline: outset;
-    outline-width: 1px;
+    outline-width: 2px;
     outline-color: #e7e7e7;
     background-color: #d3d3d3;
     margin-top: 10px;
@@ -30,7 +30,7 @@
 .Button .ILYT:hover {
     border: 1px dotted black;
     outline: outset;
-    outline-width: 1px;
+    outline-width: 2px;
     outline-color: #e7e7e7;
     background-color: #d3d3d3;
     margin-left: 15px;
@@ -41,7 +41,7 @@
 .Button .ILYT:focus {
     border: 1px dotted black;
     outline: inset;
-    outline-width: 1px;
+    outline-width: 2px;
     outline-color: #e7e7e7;
     background-color: #d3d3d3;
     margin-left: 15px;
