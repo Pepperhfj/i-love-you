@@ -36,6 +36,16 @@
     font-size: 14px;
 }
 
+.Button .ILYT:focus {
+    border: none;
+    outline: inset;
+    outline-width: 1px;
+    outline-color: #e7e7e7;
+    background-color: #d3d3d3;
+    margin-left: 15px;
+    font-size: 14px;
+}
+
 .Contents {
     display: flex;
 }
