@@ -50,6 +50,8 @@
 
 .CloseWindow {
     color: white;
+    border: solid;
+    border-width: 1px;
     margin-top: 5.6px;
     margin-left: 32px;
 }
